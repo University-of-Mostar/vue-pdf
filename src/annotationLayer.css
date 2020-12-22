@@ -83,7 +83,7 @@
 }
 
 .annotationLayer .textWidgetAnnotation input.comb {
-	font-family: monospace;
+	font-family: 'Arial';
 	padding-left: 2px;
 	padding-right: 0;
 }
